@@ -5,7 +5,7 @@ This repository contains codes and visuals used in the final project
 ## Data description
 
 - Name
--Source
+-Sources
 -Size 
 
 ## Analysis
